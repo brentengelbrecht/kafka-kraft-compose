@@ -8,8 +8,10 @@
 
 - kraft-clusters - two Kafka clusters with three instances each
 
+- includes [kafka-ui](https://github.com/provectus/kafka-ui) [running on localhost:8088]
 
-## Access
+
+## Cluster access
 
 Cluster one - port 9092
 
